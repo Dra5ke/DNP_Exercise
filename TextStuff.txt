@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
+=======
+HaMaCac
+>>>>>>> d4431de740d73b7eee5fe8f877d48e1aa9e5e512
 Stuff
 
